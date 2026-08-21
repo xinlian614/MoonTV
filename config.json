@@ -88,6 +88,14 @@
     "hongniu": {
       "api": "https://www.hongniuzy2.com/api.php/provide/vod",
       "name": "红牛资源"
+    },
+    "madou": {
+      "api": "https://91md.me/api.php/provide/vod",
+      "name": "麻豆视频"
+    },
+    "hsck": {
+      "api": "https://hsckzy.xyz/api.php/provide/vod",
+      "name": "黄色仓库"
     }
   }
 }
