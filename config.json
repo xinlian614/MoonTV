@@ -96,6 +96,10 @@
     "hsck": {
       "api": "https://hsckzy.xyz/api.php/provide/vod",
       "name": "黄色仓库"
+    },
+    "hghj": {
+      "api": "https://api.yanyushorttv.cc/dramas",
+      "name": "红果黄剧"
     }
   }
 }
